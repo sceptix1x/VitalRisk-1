@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { StyleSheet, Text, TextInput, Button, View, Image } from 'react-native';
 
+
 export default function App() {
     const image = require('./Logo/VitalRisk.jpg');
 
